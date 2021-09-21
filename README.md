@@ -1,4 +1,3 @@
-
 # GAN
 
 Our primary aim is to train a GAN model which can
