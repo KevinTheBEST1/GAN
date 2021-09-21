@@ -1,5 +1,4 @@
 # GAN
-
 Our primary aim is to train a GAN model which can
 find the relationship between two different domains (Learning to
 Discover Cross-Domain Relations with Generative Adversarial
