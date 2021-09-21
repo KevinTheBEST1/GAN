@@ -44,13 +44,13 @@ This covers the overall setps involved in GAN architecture
 - loss= Mean square error
 
 ## Results
-- The results of GAN is shown in two cases in Table.
+ The results of GAN is shown in two cases in Table.
 --          | Generator loss| Discriminator loss
 ------------- | -------------  |---------------
 Case 1  | 2.667938   | 0.158142
 Case 2  |2.844698  | 0.070919
 
-- The visulization of results is shown in figure
+The visulization of results is shown in figure
 
 <img width="342" alt="result" src="https://user-images.githubusercontent.com/74253717/134242529-9678d6ad-7e80-42ae-86f9-28b3535ff8aa.PNG">
 
