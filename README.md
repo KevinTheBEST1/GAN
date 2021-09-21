@@ -23,7 +23,7 @@ figure.
 - scikit-image
 - gzip
 - pickle
-## Screen Shots
+## System architecture
 
 This covers the overall setps involved in GAN architecture
 - Step-1
