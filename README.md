@@ -34,7 +34,7 @@ This covers the overall setps involved in GAN architecture
 Steps involved in GAN is shown via flowchart in
 figure.
 
-<img width="350" alt="flowChart" src="https://user-images.githubusercontent.com/74253717/134242479-307c36fb-25f3-4638-a950-1bce2d93af22.PNG">
+<img width="410" alt="flowChart" src="https://user-images.githubusercontent.com/74253717/134242479-307c36fb-25f3-4638-a950-1bce2d93af22.PNG">
 
 ## Model parameters
 - metrics= accuracy
